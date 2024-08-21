@@ -1,4 +1,4 @@
-public class SingleInheritanceDemo {
+public class Inhrt {
 
     static class Animal {
        
